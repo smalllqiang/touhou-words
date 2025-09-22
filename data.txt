@@ -1,20 +1,30 @@
 365日都是穰子
+8BIT MUSIC POWER FINAL
 Aki Minoriko
 Aki Sizuha
+Akyu's Untouched Score vol.
 Alice
 Alice Margatroid
+Antinomy of Common Flowers.
 Attack Event
 Attack Event 割と困ったちゃん
+Bohemian Archive in Japanese Red.
 Bomb
 B封
 C62蓬莱人形碟面角色
 Captain Murasa Minamitsu
+Changeability of Strange Dream
 Chiyuri Kitashirakawa
 Cirno
 Clownpiece
 Conparo祭
 CuriousFellow
+Dateless Bar "Old Adam".
+Dolls in Psuedo Paradise
 Doremy Sweet
+Double Dealing Character.
+Dr.Latency's Freak Report.
+Eastern and Little Nature Deity
 Easy
 Ebisu Eika
 Ebisu Youka
@@ -24,13 +34,16 @@ Extra
 Flandre
 Flandre Scarlet
 Futatsuiwa Mamizou
+Ghostly Field Club
 Goutokuzi Mike
 Hakurei Reimu
 Haniyasushin Keiki
 Hard
 Hata no Kokoro
 Hecatia Lapislazuli
+Hidden Star in Four Seasons.
 Hieda no Akyuu
+Highly Responsive to Prayers
 Hijiri Byakuren
 Himekaidou Hatate
 Himemushi Momoyo
@@ -38,6 +51,7 @@ Hinanawi Tenshi
 Hiziri Byakuren
 Hoan Meirin
 Hong Meirin
+Hopeless Masquerade.
 Horikawa Raiko
 Hoshiguma Yugi
 Houjuu Nue
@@ -49,6 +63,9 @@ Ibaraki Kasen
 Ibuki Suika
 Iizunamaru Megumu
 Imaizumi Kagerou
+Immaterial and Missing Power.
+Imperishable Night.
+Impossible Spell Card.
 Inubashiri Momizi
 Izayoi Sakuya
 Joutougu Mayumi
@@ -84,9 +101,11 @@ Kurokoma Saki
 Larva
 Last Spell
 Last Word
+Legacy of Lunatic Kingdom.
 Letty
 Letty Whiterock
 Little Devil
+Lotus Land Story
 Luna Child
 Lunar Child
 Lunasa
@@ -94,6 +113,8 @@ Lunasa Prismriver
 Lunatic
 Lyrica
 Lyrica Prismriver
+Magical Astronomy
+Magus in Mystic Geometries
 Maribel Hearn
 Marisa
 Matara Okina
@@ -111,11 +132,14 @@ Mononobe no Futo
 Morichika Rinnosuke
 Moriya Suwako
 Motoori Kosuzu
+Mountain of Faith.
 Murasa Minamitu
 Mystia
 Mystia Lorelei
+Mystic Square
 NMNB
 Nagae Iku
+Neo-traditionalism of Japan.
 Nippaku Zanmu
 Nishida Satono
 Niwatari Kutaka
@@ -126,11 +150,16 @@ Normal
 ORin
 Okunoda Miyoi
 Onozuka Komachi
+Oriental Sacred Place
 Oriental demon
 Overdrive
 Patchouli
 Patchouli Knowledge
+Perfect Cherry Blossom.
+Perfect Memento in Strict Sense.
 Phantasm
+Phantasmagoria of Dim.Dream
+Phantasmagoria of Flower View.
 Project Shrine Maiden
 Reimu
 Reisen
@@ -139,6 +168,7 @@ Reiuji Utsuho
 Reiuzi Utuho
 Remilia
 Remilia Scarlet
+Retrospective 53 minutes
 Rikako Asakura
 Ringo
 Rumia
@@ -146,10 +176,14 @@ STG
 Saigyouji Yuyuko
 Sakata Nemuno
 Sakuya
+Scarlet Weather Rhapsody.
+Seasonal Dream Vision.
 Sekibanki
 Shaman
 Shameimaru Aya
 Shikieiki Yamaxanadu
+Shoot the Bullet.
+Silent Sinner in Blue
 Soga no Toziko
 Son Biten
 Sorceress
@@ -157,32 +191,41 @@ Spell Card
 Spell Practice
 Stage
 Star Sapphire
+Strange and Bright Nature Deity
+Subterranean Animism.
 Sukuna Shinmyoumaru
 Sunny Milk
 Syameimaru Aya
 Tamatsukuri Misumaru
 Tatara Kogasa
 Teireida Mai
+Ten Desires.
 Tenkajin Chiyari
 Tenkyu Chimata
 Tenshi
 Tewi Inaba
+The Grimoire of Marisa
 Toramaru Shou
 Toutetsu Yuma
 Toyosatomimi no Miko
+Trojan Green Asteroid
 Tsukumo Benben
 Tsukumo Yatsuhashi
 Tōhō
 Tōhō Purojekkuto
 UFO
 Ultra
+Undefined Fantastic Object.
 Unzan
 Usami Renko
 Usami Sumireko
 Ushizaki Urumi
+Uwabami Breakers
+Violet Detector.
 Wakasagihime
 Watatsuki no Toyohime
 Watatsuki no Yorihime
+Wily Beast and Weakest Creature.
 Witch of Death
 Wriggle
 Wriggle Nightbug
@@ -206,6 +249,8 @@ naz
 option
 replay
 tewi
+the Embodiment of Scarlet Devil.
+the Story of Eastern Wonderland
 あうん
 いつも驚きを提供する化け狸
 えんがちょマスター
@@ -268,11 +313,13 @@ tewi
 スターサファイア
 タヌキおねえさん
 ダウザーの小さな大将
+ダブルスポイラー
 チェン
 チュパカブラ
 チュパカブラ？
 チルノ
 ツチノコ
+トルテ ル マジック
 ドレミー・スイート
 ナズーリン
 ノーボム
@@ -284,6 +331,7 @@ tewi
 フラン
 フランドール
 フランドール・スカーレット
+プロジェクト?ジャイアン
 ヘカーティア
 ヘカーティア・ラピスラズリ
 ホフゴブリン
@@ -454,6 +502,7 @@ tewi
 伊吹 萃香
 伊吹　萃香
 伊吹萃香
+伊弉諾物質
 伝統の幻想ブン屋
 传统的幻想书屋
 传统的幻想记者
@@ -509,6 +558,7 @@ tewi
 入道使い
 全ての厄を流す鍵
 全てを手に入れた石油姉妹
+全人類ノ天楽録
 全能で
 全能で人の為に動く道士
 全能且
@@ -628,6 +678,7 @@ tewi
 博麗神社の本当の巫女
 博麗神社巫女
 卡娜·安娜贝拉尔
+卯酉東海道
 危险的戏法家
 危険すぎるバックダンサーズ
 危険な手品師
@@ -826,6 +877,7 @@ tewi
 夢幻のパーカッショニスト
 夢幻酒場「鯢呑亭」の看板娘
 夢月
+夢違科学世紀
 大ナマズ
 大天狗
 大妖精
@@ -834,6 +886,7 @@ tewi
 大山鳴動の大入道
 大山鸣动的大入道
 大空に咲く花と親父
+大空魔術
 大結界の犠牲者
 大结界的牺牲者
 大胆不敵の大天狗
@@ -908,6 +961,7 @@ tewi
 妖梦
 妖獣の成り上がり
 妖精
+妖精大戦争
 妹紅
 妹红
 姆Q
@@ -937,6 +991,7 @@ tewi
 孤陋浅薄的人类
 宇佐見 菫子
 宇佐見 蓮子
+宇佐見菫子と秘密の部室
 宇佐見蓮子
 宇佐见
 宇佐见　莲子
@@ -956,6 +1011,7 @@ tewi
 安楽椅子の念写記者
 完全で瀟洒なメイド
 完全で瀟洒な従者
+完全憑依ディスコグラフィ
 完全而潇洒的女仆
 完美而潇洒的从者
 完美而潇洒的女仆
@@ -1084,10 +1140,13 @@ tewi
 并非有意却闭锁内心的觉
 幸运的白兔
 幸運の素兎
+幺樂団の歴史
 幻想の境界
 幻想の狐の嫁入り
 幻想乡
 幻想境界に棲む妖怪
+幻想曲抜萃
+幻想水琴音楽
 幻想的境界
 幻想的狐嫁雨
 幻月
@@ -1126,9 +1185,12 @@ tewi
 強欲の魔法使い
 弹幕
 弹幕STG
+弹幕狂
 弹链
 强制让你早起哦
 强欲的魔法使
+弾幕アマノジャク
+弾幕アマノジャク　ゴールドラッシュ
 彈幕
 彈鏈
 当代的念写记者
@@ -1164,6 +1226,7 @@ tewi
 怪奇！二色披风魔人
 怪绮谈
 总是提供惊讶的妖怪狸
+恋弹者
 恋心
 恋色
 恐るべき井戸の怪
@@ -1267,6 +1330,8 @@ tewi
 旧作的无名道中Boss
 旧地狱街的大姐头
 旧地獄街の親分
+旧約酒場
+旧约酒吧
 旧货店的奇人
 早苗
 早苗酱
@@ -1307,6 +1372,7 @@ tewi
 暗い洞窟の明るい網
 暗中蠢动的光虫
 暗闇に潜む妖怪
+暗黒能楽集?心綺楼
 最凶最恶且
 最凶最恶的双子
 最凶最恶的双子之妹
@@ -1339,6 +1405,7 @@ tewi
 朝仓理香子
 朝倉 理香子
 木花咲耶姫
+未知の花　魅知の旅
 未确认幻想飞行少女
 未確認幻想飛行少女
 未经世故的妨碍记者
@@ -1529,6 +1596,10 @@ tewi
 润美
 淡水に棲む人魚
 深山的经商妖怪
+深秘的楽曲集
+深秘的楽曲集 補
+深秘的楽曲集?補
+深秘的楽曲集　宇佐見菫子と秘密の部室
 深红的世界
 深红的夜行性恶魔
 混关
@@ -1583,6 +1654,7 @@ tewi
 焼死しない人間
 煙々羅
 熱かい悩む神の火
+燕石博物誌
 爆分
 爪弾きにされた反獄の怨霊
 爱丽丝
@@ -1725,6 +1797,7 @@ tewi
 神隐的主犯
 神隠しの主犯
 神霊の依り憑く月の姫
+神魔討綺伝
 祟る事もある土着神
 祠
 祭祀风的人类
@@ -1739,6 +1812,8 @@ tewi
 秋日的食人妖
 秋穣子
 秋穰子
+秋霜玉
+秋霜玉プロトタイプ
 秋静叶
 秋静葉
 秘匿された老酒
@@ -1752,6 +1827,7 @@ tewi
 稀神　サグメ
 稀神サグメ
 稀神探女
+稀翁玉
 程々に修行中の容疑者
 稗田 阿求
 稗田　阿求
@@ -1939,6 +2015,7 @@ tewi
 蓬莱山辉夜
 蓬莱的人之形
 蓬莱的药贩
+蓮台野夜行
 蓮子
 蕾拉·普莉兹姆利巴
 蕾米
@@ -2017,6 +2094,7 @@ tewi
 超人的で悟りを開く大阿闍梨
 超妖怪弹头
 超妖怪弾頭
+超弩級ギニョルの謎を追え
 超级八桥
 超越了灵长类的阿阇梨
 跨越浮世门关的山姥
@@ -2245,16 +2323,19 @@ tewi
 魔空间
 鲜红的恶魔
 鲜红血液的恶魔
+鳥船遺跡
 鴉天狗のジャーナリスト
 鴉天狗の大将
 鵺与正邪
 鸦天狗新闻工作者
 鸦天狗的首领
+黄昏酒場
 黑市是我举办的
 黑心白狐
 黑白莉莉
 黑皮琪露诺
 黑谷山女
+黑集市
 黒きドラゴンイーター
 黒白
 黒谷 ヤマメ
