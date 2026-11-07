@@ -4,11 +4,8 @@
 # 去除空行
 # 去重
 # 去除可能存在的前後空格
-# 備份原文件
 
 import sys
-import time
-import shutil
 from pathlib import Path
 
 
@@ -21,8 +18,6 @@ def main():
     if not path.is_file():
         print(f"Error: file not found: {path}", file=sys.stderr)
         sys.exit(1)
-
-    shutil.copy(path, path.with_name(f"{path.stem}_{int(time.time())}{path.suffix}"))
 
     with open(path, mode="r", encoding="utf-8") as f:
         lines = f.readlines()
