@@ -68,7 +68,6 @@ Fairy Wars
 Fairy of Flower
 Fate of Sixty Years
 Fight it out!
-Flandre
 Flower Land
 Forbidden Magic
 Forsaken Doll
@@ -105,25 +104,19 @@ Invisible Full Moon
 Japanize Dream...
 Judas Kiss
 Kagome-Kagome
-Kaguya
-Koishi
-Larva
 Last Spell
 Last Word
 Legacy of Lunatic Kingdom.
 Legendary Fish
-Letty
 Little Princess
 Lost Dream
 Lost Place
 Lotus Land Story
 Lotus Love
 Lotus Road
-Lunasa
 Lunatic
 Lunatic Blue
 Lunatic Princess
-Lyrica
 Magic Shop of Raspberry
 Magic Square
 Magic of Life
@@ -131,19 +124,13 @@ Magical Astronomy
 Magus in Mystic Geometries
 Maniacal Princess
 Maple Dream...
-Marisa
-Medicine
-Merlin
 Missing Power
-Mokou
-Momizi
 Mooned Insect
 Mountain of Faith.
 My Maid，Sweet Maid
 Mysterious Mountain
 Mysterious Note
 Mysterious Shrine
-Mystia
 Mystic Dream
 Mystic Square
 NMNB
@@ -165,7 +152,6 @@ Oriental Sacred Place
 Oriental demon
 Overdrive
 Pandora's Box
-Patchouli
 Peaceful Romancer
 Perdition crisis
 Perfect Cherry Blossom.
@@ -180,8 +166,6 @@ Plastic Space
 Pristine Beat
 Project Shrine Maiden
 Pseudoclassic
-Reimu
-Remilia
 Retrospective 53 minutes
 Reverie
 Riverside View
@@ -190,7 +174,6 @@ Romantic Fall
 STG
 Sacred Battle
 Sailor of Time
-Sakuya
 Scarlet Phoneme
 Scarlet Weather Rhapsody.
 Seasonal Dream Vision.
@@ -214,7 +197,6 @@ Sylphid Dream
 Tabula rasa
 Tabula rasa ～ 空白少女
 Ten Desires.
-Tenshi
 Tewi Inaba
 The Grimoire of Marisa
 Till When?
@@ -238,8 +220,6 @@ Witch of Love Potion
 Witching Dream
 Wonderful Heaven
 World's End
-Wriggle
-Yukari
 far East
 graze
 lily
@@ -256,7 +236,6 @@ the Last Judgement
 the Legend of KAGE
 the Story of Eastern Wonderland
 withered leaf
-あうん
 あなたの町の怪事件
 あゆのかぜ
 いざ、倒れ逝くその時まで
@@ -276,15 +255,12 @@ withered leaf
 お魚食べて健康体
 かわいい悪魔
 かわいい悪魔 ～ Innocence
-こいし
 こんなところで油売り
 さくらさくら
 さくらさくら ～ Japanize Dream...
-さとり
 すきま妖怪の式
 すきま妖怪の式の式
 なめえもん
-にとり
 はたらきもので恋を夢見る魔女
 ひもろぎ、むらさきにもえ
 ふよふよ系河原アイドル
@@ -386,7 +362,6 @@ withered leaf
 ハーセルヴズ
 ハートフェルトファンシー
 バー?オールドアダム
-パルスィ
 パンデモニックプラネット
 ヒロシゲ36号
 ヒロシゲ36号 ～ Neo Super-Express
@@ -412,7 +387,6 @@ withered leaf
 ポイズンボディ ～ Forsaken Doll
 マジカルストーム
 マッシュルーム?ワルツ
-マミゾウ
 ミシャグジ
 ミシャグチ
 ミストレイク
@@ -459,10 +433,7 @@ withered leaf
 一莲托生的妖怪僧侣
 一蓮托生の妖怪僧侶
 一蓮托生的妖怪僧侶
-一輪
-一轮
 一轮与布都
-丁礼田
 丁禮田
 丁禮田舞
 七玉蒐集ショウダウン
@@ -535,16 +506,12 @@ withered leaf
 东方兔
 东方猫
 东洋的西洋魔术师
-东风谷
-东风谷　早苗
 両生類の神様
 两个世界
 两栖类的神明
-丰姬
 丰裕与收成的象征
 为人而谋的
 为难的遗忘之物
-久侘歌
 久遠の夢
 久遠の楽園
 乌冬
@@ -561,14 +528,12 @@ withered leaf
 九代目のサヴァン
 九十九 八橋
 九十九 弁々
-九十九　八桥
 九尾
 九月のパンプキン
 二つの世界
 二ッ岩 マミゾウ
 二妹
 二小姐
-二岩
 二日酔いの同床異夢
 二符
 二色蓮花蝶
@@ -642,9 +607,6 @@ withered leaf
 使人做梦的
 使人做梦的妖怪
 使用人偶的魔法使
-依姫
-依姬
-依神
 依神 女苑
 依神 紫苑
 価値がわからない
@@ -675,7 +637,6 @@ withered leaf
 光る蟲の大群
 光凭外表是十分爽朗的妖怪
 光輝く天球儀
-克劳恩
 克劳恩皮斯
 兎
 兎は舞い降りた
@@ -690,14 +651,8 @@ withered leaf
 全能且
 全能且为人而谋的道士
 全避
-八云
-八云　紫
-八云　蓝
-八千慧
 八坂 神奈子
 八意 永琳
-八桥
-八橋
 八百万の代弁者
 八百万神的代言人
 八雲 紫
@@ -705,7 +660,6 @@ withered leaf
 公正なる奪い合い
 其实，是迷路了
 兽王们的休息
-冈崎　梦美
 冥界に棲む生粋の亡霊少女
 冥界に棲む生粋（？）の亡霊少女
 冥界の亡霊
@@ -747,8 +701,6 @@ withered leaf
 动机不明的最强共犯
 劲牙组组长
 勁牙組組長
-勇仪
-勇儀
 勇往直前僧侣
 動かない古道具屋
 動かない大図書館
@@ -763,7 +715,6 @@ withered leaf
 北白河 ちゆり
 十六夜 咲夜
 千の試練を超えて
-千亦
 升格的妖兽
 午后之死神
 午夜中的妖精舞会
@@ -781,19 +732,16 @@ withered leaf
 半分虚幻的庭师
 华丽昆虫却无毒
 华人小姑娘
-华扇
 华扇的动物
 华胥的亡灵
 卑近なダウザー
 卓柏卡布拉
 卓柏卡布拉？
 南无三
-博丽
 博丽神社
 博丽神社巫女
 博丽神社的巫女小姐
 博丽神社真正的巫女
-博麗
 博麗 霊夢
 博麗　～ Eastern Wind
 博麗神社の巫女さん
@@ -851,10 +799,7 @@ withered leaf
 司掌宇宙的全能道士
 司掌龙脉的风水师
 各々の結末
-合欢
 合縁奇縁
-吉吊
-吉弔
 吉弔 八千慧
 名存实亡的神明
 名存実亡の神様
@@ -872,9 +817,7 @@ withered leaf
 命蓮
 咖喱和村纱
 咲き誇る憑依華
-咲夜
 咲夜与爱丽丝
-响子
 唠叨敬畏的话语
 唯恐避之不及的反狱的怨灵
 商売上手で
@@ -892,7 +835,6 @@ withered leaf
 四季的鲜花之主
 四张符卡
 因幡 てゐ
-因幡帝
 因月面思维而
 因月面思维而波长不合的妖怪兔
 因神仙思想而
@@ -965,7 +907,6 @@ withered leaf
 基层警卫天狗
 堀川 雷鼓
 堅苦しい歴史家
-堇子
 堕落神殿
 塩屋敷の旦那
 塵界不変のペシミズム
@@ -1039,9 +980,7 @@ withered leaf
 大鹫灵
 天人
 天使伝説
-天子
 天弓 千亦
-天火人
 天火人 ちやり
 天狐
 天狗
@@ -1081,7 +1020,6 @@ withered leaf
 奢侈文弱な女子高生
 奢侈文弱的女高中生
 奥野田 美宵
-女苑
 奸佞邪智の鬼
 奸佞邪智的鬼
 好秘封
@@ -1090,7 +1028,6 @@ withered leaf
 妖々夢 ～ Snow or Cherry Petal
 妖々跋扈
 妖々跋扈 ～ Who done it!
-妖夢
 妖怪
 妖怪さん
 妖怪に人気があるムカデ
@@ -1115,21 +1052,17 @@ withered leaf
 妖怪狸森林
 妖怪狸的骗人酒瓶
 妖怪裏参道
-妖梦
 妖獣の成り上がり
 妖精
 妖精大戦争
 妖精大戦争 ～ Fairy Wars
 妖精燦々として
 妖魔夜行
-妹紅
-妹红
 姆Q
 始原のビート
 始原のビート ～ Pristine Beat
 姫海棠 はたて
 姫虫 百々世
-姬海棠
 姬海棠羽立
 威胁！聆听愿望的仙人
 威風堂々たる神秘
@@ -1147,7 +1080,6 @@ withered leaf
 宇佐見 菫子
 宇佐見 蓮子
 宇佐見菫子と秘密の部室
-宇佐见
 宇佐见　莲子
 宇佐见　菫子
 宇宙を司る全能道士
@@ -1211,14 +1143,11 @@ withered leaf
 小小的甜蜜毒药
 小小的百鬼夜行
 小槌の魔力
-小町
 小町与映姬
 小道具屋店主
 小野冢　小町
 小野塚 小町
-小鈴
 小鈴の両親
-小铃
 小铃的父母
 少名 針妙丸
 少名　针妙丸
@@ -1232,7 +1161,6 @@ withered leaf
 少女神性 ～ Pandora's Box
 少女綺想曲
 尔子田　里乃
-尤魔
 尸体弹
 尸体观光售票员
 尸解仙
@@ -1243,7 +1171,6 @@ withered leaf
 屈指のトレジャーマウス
 屍體彈
 屏幕封印
-屠自古
 山と湖と山廃仕込み
 山と湖の神
 山に住む奇跡の現人神
@@ -1262,9 +1189,7 @@ withered leaf
 山城 たかね
 山奥のエンカウンター
 山奥のビジネス妖怪
-山女
 山女帕露
-山如
 山姥は闇市場が好き
 山姥喜欢黑市
 山里的仙人
@@ -1284,10 +1209,8 @@ withered leaf
 巫女小姐
 巴瓦鲁魔法图书馆
 市場の神
-布都
 希望の星は青霄に昇る
 帕秋莉•诺蕾姬
-帕露西
 平凡陈腐的山彦
 平凡陳腐な山彦
 平安のエイリアン
@@ -1322,7 +1245,6 @@ withered leaf
 幻視の夜
 幻視の夜 ～ Ghostly Eyes
 幼心地の有頂天
-幽々子
 幽人の庭師
 幽人的园艺师
 幽人的庭师
@@ -1332,7 +1254,6 @@ withered leaf
 幽夢
 幽夢 ～ Inanimate Dream
 幽幻乱舞
-幽幽子
 幽灵
 幽玄の槭樹
 幽玄魔眼
@@ -1359,8 +1280,6 @@ withered leaf
 开演间近
 开花弹
 开荒
-弁々
-弁弁
 异空
 強欲の魔法使い
 弹幕
@@ -1376,7 +1295,6 @@ withered leaf
 当代的念写记者
 当地藏好无聊
 影华扇
-影狼
 影華扇
 彷徨わない亡霊
 彼岸帰航
@@ -1453,8 +1371,6 @@ withered leaf
 感情の摩天楼 ～ Cosmic Mind
 感情丰富的
 感情的な
-慧之子
-慧音
 憑依投合
 憑依華
 憑坐は夢と現の間に
@@ -1462,7 +1378,6 @@ withered leaf
 戎 瓔花
 戎　璎花
 戎樱花
-成美
 我欲の巫女
 我欲的巫女
 我田引水の天狗
@@ -1479,7 +1394,6 @@ withered leaf
 抱B
 抱B撞
 抱B死
-拉尔瓦
 拉尔瓦与琪露诺
 拓落失路の死神
 招来口舌之祸的女神
@@ -1490,13 +1404,10 @@ withered leaf
 掉残
 探偵と刑事の境界
 探偵より探し物が得意な容疑者
-探女
 探宝的小小大将
 接近神的蝴蝶妖精
 控枪
-摩多罗
 摩多罗　隠岐奈
-摩多羅
 撃ち返し
 擅长买卖且
 擅长买卖且守财如命的河童
@@ -1518,7 +1429,6 @@ withered leaf
 斜向加速
 断善修恶的怪臂
 断善修悪の怪腕
-斯塔
 新幻想
 新幻想 ～ New Fantasy
 无主物之神
@@ -1533,7 +1443,6 @@ withered leaf
 日之光
 日常坐臥
 日本中の不思議を集めて
-日狭美
 日白　残无
 日陰
 旧世界の冒険酒場
@@ -1545,10 +1454,8 @@ withered leaf
 旧約酒場
 旧约酒吧
 旧货店的奇人
-早苗
 早苗酱
 早起き強制しちゃうよ
-早鬼
 时有作祟的土著神
 明かされる深秘
 明日ハレの日、ケの昨日
@@ -1665,7 +1572,6 @@ withered leaf
 机控
 机签
 村紗 水蜜
-村纱
 村纱　水蜜
 村纱与一轮
 村里的人类
@@ -1689,7 +1595,6 @@ withered leaf
 栖息在幻想境界的妖怪
 核热造神非想天则
 核熱造神ヒソウテンソク
-桑尼
 桜舞い散る天空
 桜色の海を泳いで
 桜花之恋塚
@@ -1757,7 +1662,6 @@ withered leaf
 死肉
 死臭漂うマタタビ酒
 死霊の夜桜
-残无
 残机
 殘機
 比那名居 天子
@@ -1776,13 +1680,11 @@ withered leaf
 水中的技师
 水平思考の河童
 水平思考的河童
-水桥
 水桥　パルスィ
 水棲の技師
 水橋 パルスィ
 水江浦島子
 水獭灵
-水蜜
 水难事故的化身
 水难事故的念缚灵
 水難事故の念縛霊
@@ -1795,7 +1697,6 @@ withered leaf
 永夜抄
 永夜抄 ～ Eastern Night.
 永江 衣玖
-永琳
 永远之巫女
 永远和须臾的罪人
 永远幼小的红月
@@ -1843,7 +1744,6 @@ withered leaf
 浮世離れした
 浮游单元
 海と山を繋ぐ月の姫
-润美
 淡水に棲む人魚
 深山的经商妖怪
 深秘的楽曲集
@@ -1883,7 +1783,6 @@ withered leaf
 火焔猫 燐
 灵击
 灵异传
-灵梦
 灵爱
 灵爱魔
 灵魔殿
@@ -1935,7 +1834,6 @@ withered leaf
 独立不撓の神様
 独臂有角的仙人
 狸猫大姐姐
-猯藏
 玄武の沢
 玄武之泽
 玄武涧
@@ -1947,8 +1845,6 @@ withered leaf
 珍客
 現し世の秘術師
 現代っ子の現人神
-瑞霊
-璎花
 瓢箪枕の酒呑童子
 甘い匂いのする神様
 生と死のハーフ&ハーフ
@@ -1978,9 +1874,6 @@ withered leaf
 白い管狐
 白沢
 白色管狐
-百々世
-百百世
-皮丝
 皮斯
 皮相浅薄な人間
 盐家老板
@@ -2015,7 +1908,6 @@ withered leaf
 破竹の鬼傑組組長
 破竹的鬼杰组组长
 破邪の小太刀
-磨弓
 祀られる風の人間
 神さびた古戦場
 神さびた古戦場 ～ Suwa Foughten Field
@@ -2035,8 +1927,6 @@ withered leaf
 神出鬼没且表里两面的妖怪
 神出鬼没的妖怪
 神域のかくれんぼ暮らし
-神奈子
-神子
 神子与屠自古
 神子与布都
 神子大人
@@ -2162,7 +2052,6 @@ withered leaf
 素敵な墓場で暮しましょ
 紧闭的恋之瞳
 紫梅莉
-紫苑
 綿月 依姫
 綿月 豊姫
 綿月のスペルカード
@@ -2200,8 +2089,6 @@ withered leaf
 美しい虫だけど毒は無し
 美しき緋の衣
 美丽的绯之衣
-美宵
-美铃
 群弹
 羽立
 習わぬお経を読む容疑者
@@ -2260,21 +2147,17 @@ withered leaf
 花映塚
 花映塚 ～ Higan Retour
 花曇の魔女
-芳香
 苍天的园艺师
 苏我　屠自古
 茨木 華扇
 茨木　华扇
-荷取
 荷取与布都
 莉莉怀特
 莉莉白
 菅牧 典
-菫子
 華のさかづき大江山
 華の幻想 紅夢の宙
 華人小娘
-華扇
 華扇の動物
 華狭間のバトルフィールド
 華胥の亡霊
@@ -2282,12 +2165,10 @@ withered leaf
 萃まる夢、幻、そして百鬼夜行
 萃夢想
 萃集梦想、虚幻、以及百鬼夜行
-萃香
 萨丽艾尔
 落日に映える逆さ城
 落魄失意的死神
 蒼天の庭師
-蓝
 蓬松松爱莲魔法店
 蓬莱の人の形
 蓬莱の薬屋さん
@@ -2303,7 +2184,6 @@ withered leaf
 蓬莱的人之形
 蓬莱的药贩
 蓮台野夜行
-蓮子
 蕾米
 藤原 妹紅
 藤原　妹红
@@ -2325,7 +2205,6 @@ withered leaf
 街中的药贩
 衛星カフェテラス
 衛星トリフネ
-衣玖
 衣玖大人
 衣玖桑
 表情丰富的扑克脸
@@ -2337,8 +2216,6 @@ withered leaf
 被秘匿的老酒
 被谈论的怪力乱神
 被谈论的梦幻大吟酿
-袿姫
-袿姬
 装飾戦
 装飾戦 ～ Decoration Battle
 裏で動くの大好き
@@ -2356,14 +2233,11 @@ withered leaf
 語られる夢幻大吟醸
 語られる怪力乱神
 読経するヤマビコ
-諏訪子
 识文解意的爱书人
 诱导
 诵经的山彦
-诹访子
 谁也抓不住的狸猫伪装者
 豊かさと稔りの象徴
-豊姫
 豊聡耳 神子
 豪徳寺 ミケ
 賭場に咲く一輪の胴元
@@ -2391,12 +2265,10 @@ withered leaf
 輝く針の小人族
 輝く針の小人族 ～ Little Princess
 輝ける日の光
-輝夜
 车 万
 转嫁游戏大师
 轻飘飘系河原偶像
 辉光之针的利立浦特
-辉夜
 辘轳首的怪奇
 过于危险的背景舞者
 运松翁
@@ -2464,8 +2336,6 @@ withered leaf
 间隙
 间隙妖怪的式神
 间隙妖怪的式神的式神
-阿吽
-阿求
 阿礼の子供
 阿空
 降り注ぐ星の光
@@ -2474,7 +2344,6 @@ withered leaf
 陽落ちて
 随处可见的探宝者
 随机弹
-隐岐奈
 隐紫
 隔墙有耳的鸡尾酒会
 隙間
@@ -2490,7 +2359,6 @@ withered leaf
 雪的亡灵
 雲外蒼天
 雲居 一輪
-雷鼓
 雹の人形遣い
 雹之人偶使
 電光石火のメイド
@@ -2499,7 +2367,6 @@ withered leaf
 需保护的渔业资源
 霊乌路　空
 霊人の休日
-霊夢
 霊天
 霊天 ～ Spiritual Heaven
 霊戦
@@ -2512,21 +2379,15 @@ withered leaf
 霊長類最強の魔法使い
 霊鳥核弾頭
 霍 青娥
-霖之助
 霖之助与赤蛮奇
-霧雨
 霧雨 魔理沙
 霧雨の魔法使い
-露娜
 露娜切云德
 露娜萨第二次
-靈夢
-青娥
 青娥娘娘
 青木ヶ原の伝説
 青空の影
 静かなる月の光
-静叶
 静寂神殿
 静谧的月之光
 非想天则
@@ -2536,7 +2397,6 @@ withered leaf
 非統一魔法世界論
 面灵气
 面霊気
-響子
 須臾はプランクを超えて
 頑固で
 頑固で巨体怪力な入道使い
@@ -2566,7 +2426,6 @@ withered leaf
 飞翔于天空的不可思议的巫女
 飞翔于空的不可思议巫女
 飯綱丸 龍
-饕餮
 饭纲丸 龙
 香る樹葉花
 香油钱
@@ -2623,7 +2482,6 @@ withered leaf
 魔法陣
 魔法陣 ～ Magic Square
 魔爱
-魔理沙
 魔理灵
 魔界
 魔界之门
@@ -2653,8 +2511,6 @@ withered leaf
 黒白
 黒谷 ヤマメ
 黒谷山女
-龍
 龍脈を司る風水師
-龙
 동방
 동방 프로젝트
